@@ -1,0 +1,23 @@
+{
+  "resources/js/Pages/Home.jsx": {
+    "file": "assets/Home-5elBnO_B.js",
+    "name": "Home",
+    "src": "resources/js/Pages/Home.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-B2vLiqep.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Home.jsx"
+    ],
+    "css": [
+      "assets/app-LgViTnxs.css"
+    ]
+  }
+}
